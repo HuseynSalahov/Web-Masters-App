@@ -1,0 +1,51 @@
+.navbar{
+    background-color: #4400ff;
+    font-size: 20px;
+}
+
+.logo{
+    width: 120px;
+}
+
+.logo:hover{
+    color: #b2b2b2;
+}
+
+.carousel-inner{
+    height: 90vh;
+}
+
+.carousel-control-prev-icon{
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%234400ff' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+}
+
+.carousel-control-next-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%234400ff' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+}
+
+.carousel-caption{
+    background-color: rgba(68, 0, 255, 0.5);
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.image-col{
+    padding: 0 !important;
+}
+
+footer{
+    background-color: #4400ff;
+    color: #fff;
+    padding: 3%;
+}
+
+.fa-brands{
+    color: #fff;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.fa-brands:hover{
+    color: #b2b2b2;
+}
+
